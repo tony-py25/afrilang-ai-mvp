@@ -1,0 +1,32 @@
+{
+  "dataset_name": "Kiswahili AI Sample Dataset",
+  "language": "Kiswahili",
+  "language_code": "sw",
+  "entries": [
+    {
+      "id": 1,
+      "swahili": "Habari yako?",
+      "english": "How are you?"
+    },
+    {
+      "id": 2,
+      "swahili": "Ninapenda kujifunza teknolojia.",
+      "english": "I like learning technology."
+    },
+    {
+      "id": 3,
+      "swahili": "Leo ni siku nzuri.",
+      "english": "Today is a good day."
+    },
+    {
+      "id": 4,
+      "swahili": "Tunaendeleza teknolojia ya akili bandia.",
+      "english": "We are developing artificial intelligence technology."
+    },
+    {
+      "id": 5,
+      "swahili": "Karibu katika soko letu la data.",
+      "english": "Welcome to our data marketplace."
+    }
+  ]
+}
