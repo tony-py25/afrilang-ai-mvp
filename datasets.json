@@ -1,0 +1,12 @@
+{
+  "datasets": [
+    {
+      "id": "swahili-001",
+      "language": "Kiswahili",
+      "type": "text",
+      "description": "High-quality Kiswahili language dataset for AI and NLP applications.",
+      "status": "sample",
+      "license": "commercial"
+    }
+  ]
+}
